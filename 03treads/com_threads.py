@@ -9,7 +9,7 @@ def gerador_de_dados(queue):
     for i in range(1, 11):
         # Flush é uma execução limpa nao espera nada.
         print(colorama.Fore.GREEN + f'Dados {i} gerado.', flush=True)
-        time.sleep(1)
+        time.sleep(2)
         queue.put(i)
 
 
