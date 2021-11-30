@@ -10,4 +10,4 @@ Todo o conteudo de repositórios serão colocados aqui, neste curso é aprenseta
 
 # Links
 
-[Link do curso](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
+[Curso Programacao Concorrente e Assincrona com Python](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
