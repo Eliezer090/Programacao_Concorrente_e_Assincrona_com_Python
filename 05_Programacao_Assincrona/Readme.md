@@ -1,0 +1,3 @@
+# Onde usar async
+- Programação assincrona é mais interessante em locais onde há necessidade de esperar um tempo para que a aplicação seja executada, como por exemplo, em um banco de dados, um servidor de email, ler um arquivo, etc.
+- Poderá ver que no arquivo 40_Bibliotecas_async.py é executado mais lento que no arquivo "30_Performance_MltiProcessos.py" do "Multiprocessamento", pois o async foi desenvolvido para processos que precisam esperar e nao para performance.

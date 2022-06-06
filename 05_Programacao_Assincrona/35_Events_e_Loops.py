@@ -1,0 +1,10 @@
+# 35. Exercício Prático: Eventos Multitarefas com Loop de Eventos e Corrotinas
+import asyncio
+
+
+async def diz_oi():
+    print('Oi')
+
+el = asyncio.get_event_loop()
+el.run_until_complete(diz_oi())
+el.close()
